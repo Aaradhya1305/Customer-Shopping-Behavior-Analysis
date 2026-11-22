@@ -74,7 +74,7 @@ Developed an interactive dashboard featuring:
 
 ### Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](dashboard.jpeg)
+![Customer Shopping Behavior Dashboard](dashboard.png)
 
 ## Project Structure
 
@@ -85,7 +85,7 @@ Customer-Shopping-Behavior-Analysis/
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── Customer_Behavior_Analysis_SQL.sql
 ├── Customer_Shopping_Behavior_Expanded_Report.pdf
-├── dashboard.jpeg
+├── dashboard.png
 └── README.md
 ```
 
